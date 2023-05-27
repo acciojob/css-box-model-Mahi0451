@@ -1,8 +1,9 @@
 /* Your CSS Code here. */
 .container{
+	background-color:rgb(173, 216, 230);
 	width:300px;
 	padding:50px;
 	border:15px solid blue;
 	margin:20px;
-	color:lightblue;
+	color:black;
 }
