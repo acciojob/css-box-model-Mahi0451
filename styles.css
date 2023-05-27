@@ -1,8 +1,6 @@
 /* Your CSS Code here. */
 .container{
 	border:1px solid black;
-}
-.container .box{
 	width:300px;
 	padding:50px;
 	border:15px solid blue;
